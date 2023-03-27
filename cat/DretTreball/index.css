@@ -1,0 +1,71 @@
+
+
+/* Estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9eaea;
+  }
+  
+  /* Estilos para el encabezado */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  
+  /* Estilos para la lista */
+ol {
+    padding-left: 30px;
+  }
+  
+  /* Estilos para los elementos de la lista */
+li {
+    margin-bottom: 5px;
+  }
+  
+  /* Estilos para los enlaces */
+a {
+    color: #008cba;
+    text-decoration: none;
+    
+  }
+  
+
+  div.cmath {
+    display: block;
+    margin: 20px 0px 20px 30px;
+    padding-left: 50px; padding-top: 8px; padding-bottom: 8px;
+    white-space : pre;
+  }
+
+  p.comentario {
+    color:red;
+    font-size: 17px;
+  }
+
+  caption {
+    color:blue;
+    font-weight: bolder;
+}
+
+
+table, td, th {
+    border: 1px solid;
+}
+
+
+th {
+    background-color: rgb(185, 185, 185);
+    padding: 5px;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+}
+
